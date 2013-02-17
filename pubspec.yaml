@@ -1,0 +1,8 @@
+name:  facsimileClock
+description:  A study case imitate the Clock app
+
+#dependencies:
+#  js: any
+#  unittest: any
+dependencies:
+    browser: any
