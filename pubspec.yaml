@@ -1,8 +1,7 @@
-name:  facsimileClock
-description:  A study case imitate the Clock app
-
-#dependencies:
-#  js: any
-#  unittest: any
-dependencies:
-    browser: any
+name: pixel_clock
+version: 1.0.1
+author: Wang Feng <rwangfengdev@gmail.com>
+description: A study case imitate the Clock app
+homepage: http://www.rwangfeng.me
+dev_dependencies:
+  browser: any
